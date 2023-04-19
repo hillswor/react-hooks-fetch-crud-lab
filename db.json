@@ -7,12 +7,6 @@
       "correctIndex": 2
     },
     {
-      "id": 2,
-      "prompt": "A React component is a function that returns ______.",
-      "answers": ["HTML", "JSX", "props", "state"],
-      "correctIndex": 1
-    },
-    {
       "id": 3,
       "prompt": "Which event handler will run when a user is finished filling out a form?",
       "answers": ["onSubmit", "onClick", "onChange", "onForm"],
